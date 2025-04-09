@@ -2,6 +2,11 @@
 <h3 align="center">A Passionate Full Stack Developer & Problem Solver</h3>
 
 ---
+
+<p align="right">
+  <img src="https://github.com/aparnakanda/aparnakanda/blob/main/Code_img.gif?raw=true" width="300"/>
+</p>
+
 ### 👀 About Me  
 - I have a strong passion for full-stack development.  
 - 🌱 Currently honing my skills in **Backend Development** and **React Native**.  
