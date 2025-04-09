@@ -3,16 +3,24 @@
 
 ---
 
-<p align="right">
-  <img src="https://github.com/aparnakanda/aparnakanda/blob/main/Code_img.gif?raw=true" width="300"/>
-</p>
-
+<!-- Table Layout for Side-by-Side Alignment -->
+<table border="0">
+  <tr>
+    <td>
+      
 ### 👀 About Me  
 - I have a strong passion for full-stack development.  
 - 🌱 Currently honing my skills in **Backend Development** and **React Native**.  
 - 💡 Proficient in **C++, Java, JavaScript, SQL, ReactJS, Node.js**.  
 - 🤝 Actively solving problems on **LeetCode, CodeChef, and HackerRank**.  
 - 🎯 Goal: Become a top-tier **Software Engineer** and contribute to innovative tech solutions.  
+
+    </td>
+    <td>
+      <img src="https://github.com/aparnakanda/aparnakanda/blob/main/Code_img.gif?raw=true" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -65,7 +73,7 @@
 ### 🔗 Connect with Me  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Aparna_Kanda/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23B92B27.svg?&style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/aparna_kanda)  
-[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/kandaaparna2005)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=hackerRank&logoColor=white)](https://www.hackerrank.com/profile/kandaaparna2005)  
 
 ---
 
@@ -80,4 +88,4 @@
 <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>  
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>  
-</p>  
+</p> 
