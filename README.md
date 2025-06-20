@@ -56,7 +56,7 @@
 ---
 
 ### 🏅 Achievements  
-✔ Solved **170+ problems** on **LeetCode**.  
+✔ Solved **200+ problems** on **LeetCode**.  
 ✔ Solved **500+ problems** on **CodeChef**.  
 ✔ Earned **5-star badges** in **C++, Java, and SQL** on HackerRank.  
 
