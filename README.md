@@ -47,7 +47,9 @@
 ---
 
 ### 🏆 Certifications  
-- **IT Specialist – HTML & CSS** (Certiport)  
+- **IT Specialist – HTML & CSS** (Certiport)
+- **IT Specialist – JavaScript** (Certiport)
+- **CSA & CAD – ServiceNow**
 - **SQL (Basic)** – HackerRank  
 - **JavaScript (Basic & Medium)** – HackerRank  
 - **Programming Essentials in C++** – Cisco  
