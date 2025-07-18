@@ -33,11 +33,18 @@
 - Designed a **real-time asset tracking system** for **efficient infrastructure management**.  
 - Used **HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB**.  
 
+📂 **Canteen Connect (Full Stack Developer)**
+- Built a mobile app to **explore college canteens**, view **menus with prices**, place **food orders**, and track **order history**.
+- Developed using **React Native, Node.js**, and integrated with **ServiceNow** for dynamic data handling and order management.
+  
 🔗 **[Check out my Portfolio](https://aparnakanda.github.io/AK_Portfolio/)**  
 
 ---
 
 ### 💼 Internships  
+🔹 **Technical Hub Pvt Ltd** – ServiceNow Development Internship (Jan 2025 – June 2025)
+- Worked on **custom tables, form views, client scripts, REST API integration, Service Portal customization, and workflow automation using Flow Designer**.
+  
 🔹 **Technical Hub Pvt Ltd** - Full Stack Development with React Native (June 2024 - July 2024)  
 - Gained hands-on experience building **scalable web & mobile apps**.  
 
