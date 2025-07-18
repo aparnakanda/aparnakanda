@@ -9,9 +9,9 @@
     <td>
       
 ### 👀 About Me  
-- I have a strong passion for full-stack development.  
-- 🌱 Currently honing my skills in **Backend Development** and **React Native**.  
-- 💡 Proficient in **C++, Java, JavaScript, SQL, ReactJS, Node.js**.  
+- I'm a dedicated full-stack development enthusiast with a growing interest in building scalable and user-centric applications. 
+- 🌱 Currently expanding my expertise in **Backend Development**, **React Native** and **ServiceNow**.  
+- 💡 Skilled in **C++, Java, JavaScript, SQL, ReactJS, Node.js, and ServiceNow**.  
 - 🤝 Actively solving problems on **LeetCode, CodeChef, and HackerRank**.  
 - 🎯 Goal: Become a top-tier **Software Engineer** and contribute to innovative tech solutions.  
 
