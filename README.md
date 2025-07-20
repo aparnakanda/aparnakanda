@@ -25,17 +25,26 @@
 ---
 
 ### 👨‍💻 My Projects  
+
+📂 **Canteen Connect (Full Stack Developer)**
+- In college campuses, students face long queues and limited menu visibility due to disorganized food ordering.
+- A centralized real-time system is needed to streamline the process.
+- Built a mobile app to **explore college canteens**, view **menus with prices**, place **food orders**, and track **order history**.
+- Developed using **React Native, Node.js**, and integrated with **ServiceNow** for dynamic data handling and order management.
+
 📂 **CineMax (Frontend Developer)**  
+- Developed a classic **Tic Tac Toe game** in Java with an intelligent AI opponent using the **Minimax algorithm**.  
+- Built using **HTML, CSS, JavaScript**.
+
+ 📂 **AI based TicTacToe (Java)**  
 - Developed a **movie ticket booking system** with a **responsive UI**, real-time pricing updates, and **secure UPI payments**.  
-- Built using **HTML, CSS, JavaScript**.  
+- Implemented console-based interaction with player vs player and player vs AI modes.
+- Added features like automatic move calculation, replay functionality, and input validation.
+- Strengthened understanding of game logic, recursion, and decision-making algorithms through hands-on implementation.
 
 📂 **College Infrastructure (Full Stack Developer)**  
 - Designed a **real-time asset tracking system** for **efficient infrastructure management**.  
 - Used **HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB**.  
-
-📂 **Canteen Connect (Full Stack Developer)**
-- Built a mobile app to **explore college canteens**, view **menus with prices**, place **food orders**, and track **order history**.
-- Developed using **React Native, Node.js**, and integrated with **ServiceNow** for dynamic data handling and order management.
   
 🔗 **[Check out my Portfolio](https://aparnakanda.github.io/AK_Portfolio/)**  
 
@@ -75,7 +84,7 @@
 📧 Email: **kandaaparna2005@gmail.com**  
 🔗 LinkedIn: **[Aparna Kanda](https://www.linkedin.com/in/aparna-kanda/)**  
 🔗 GitHub: **[Aparna Kanda](https://github.com/aparnakanda)**  
-📄 **[View My Resume](https://drive.google.com/file/d/1gSWIEPAPvV3vUyD8hzMHP0O2UeEBp7S7/view?usp=drivesdk)**  
+📄 **[View My Resume](https://drive.google.com/file/d/12eyeSq9LXALGg33QOPQ1fOvUV6aBO_f0/view?usp=drivesdk)**  
 
 ---
 
