@@ -40,11 +40,7 @@
 - Developed a **movie ticket booking system** with a **responsive UI**, real-time pricing updates, and **secure UPI payments**.  
 - Implemented console-based interaction with player vs player and player vs AI modes.
 - Added features like automatic move calculation, replay functionality, and input validation.
-- Strengthened understanding of game logic, recursion, and decision-making algorithms through hands-on implementation.
-
-📂 **College Infrastructure (Full Stack Developer)**  
-- Designed a **real-time asset tracking system** for **efficient infrastructure management**.  
-- Used **HTML, CSS, JavaScript, Node.js, Express.js, and MongoDB**.  
+- Strengthened understanding of game logic, recursion, and decision-making algorithms through hands-on implementation.  
   
 🔗 **[Check out my Portfolio](https://aparnakanda.github.io/AK_Portfolio/)**  
 
