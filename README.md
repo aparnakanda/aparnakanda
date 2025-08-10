@@ -90,7 +90,7 @@
 📧 Email: **kandaaparna2005@gmail.com**  
 🔗 LinkedIn: **[Aparna Kanda](https://www.linkedin.com/in/aparna-kanda/)**  
 🔗 GitHub: **[Aparna Kanda](https://github.com/aparnakanda)**  
-📄 **[View My Resume](https://drive.google.com/file/d/12eyeSq9LXALGg33QOPQ1fOvUV6aBO_f0/view?usp=drivesdk)**  
+📄 **[View My Resume](https://drive.google.com/file/d/169g28bDbvhbMOSHqz4vfYEXeY0KR-xv2/view?usp=drivesdk)**  
 
 ---
 
