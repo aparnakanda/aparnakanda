@@ -26,21 +26,31 @@
 
 ### 👨‍💻 My Projects  
 
-📂 **Canteen Connect (Full Stack Developer)**
+📂 **Canteen Connect (React Native, Node.js, ServiceNow)**
 - In college campuses, students face long queues and limited menu visibility due to disorganized food ordering.
 - A centralized real-time system is needed to streamline the process.
 - Built a mobile app to **explore college canteens**, view **menus with prices**, place **food orders**, and track **order history**.
 - Developed using **React Native, Node.js**, and integrated with **ServiceNow** for dynamic data handling and order management.
+- Designed with a focus on reducing wait times and improving food ordering efficiency on campus.
 
-📂 **CineMax (Frontend Developer)**  
-- Developed a classic **Tic Tac Toe game** in Java with an intelligent AI opponent using the **Minimax algorithm**.  
-- Built using **HTML, CSS, JavaScript**.
+📂 **CineMax (HTML, CSS, JavaScript)**  
+- Developed a **movie ticket booking system** with a **responsive UI**, real-time pricing updates, and **secure UPI payments**.
+- Focused on delivering a seamless booking experience through intuitive design and smooth interactivity.
+- Added filtering functionality for movies by showtime, genre, and language to enhance user convenience.
+- Created a smooth and engaging booking flow with confirmation screens and intuitive navigation for a better user experience.
 
- 📂 **AI based TicTacToe (Java)**  
-- Developed a **movie ticket booking system** with a **responsive UI**, real-time pricing updates, and **secure UPI payments**.  
+📂 GitHub Profile Viewer & Analyzer (React.js, GitHub REST API, CSS)
+- Developed a responsive web application to search any GitHub username and display **profile details**, **public repositories**, and **most used languages**.
+- Integrated **GitHub REST API** for real-time data retrieval and repository-level analytics.
+- Implemented modular UI components (SearchBar, ProfileCard, RepoList, Analysis) with clean, maintainable code structure.
+- Added features like error handling for invalid users, dynamic profile rendering, and a responsive, user-friendly layout.
+
+📂 **AI based TicTacToe (Java)** 
+- Developed a classic **Tic Tac Toe game** in Java with an intelligent AI opponent using the **Minimax algorithm**.
 - Implemented console-based interaction with player vs player and player vs AI modes.
 - Added features like automatic move calculation, replay functionality, and input validation.
-- Strengthened understanding of game logic, recursion, and decision-making algorithms through hands-on implementation.  
+- Strengthened understanding of game logic, recursion, and decision-making algorithms through hands-on implementation.
+
   
 🔗 **[Check out my Portfolio](https://aparnakanda.github.io/AK_Portfolio/)**  
 
