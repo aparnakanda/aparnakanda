@@ -39,7 +39,7 @@
 - Added filtering functionality for movies by showtime, genre, and language to enhance user convenience.
 - Created a smooth and engaging booking flow with confirmation screens and intuitive navigation for a better user experience.
 
-📂 GitHub Profile Viewer & Analyzer (React.js, GitHub REST API, CSS)
+📂 **GitHub Profile Viewer & Analyzer (React.js, GitHub REST API, CSS)**
 - Developed a responsive web application to search any GitHub username and display **profile details**, **public repositories**, and **most used languages**.
 - Integrated **GitHub REST API** for real-time data retrieval and repository-level analytics.
 - Implemented modular UI components (SearchBar, ProfileCard, RepoList, Analysis) with clean, maintainable code structure.
