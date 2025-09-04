@@ -10,7 +10,7 @@
       
 ### 👀 About Me  
 - I'm a dedicated full-stack development enthusiast with a growing interest in building scalable and user-centric applications. 
-- 🌱 Currently expanding my expertise in **Backend Development**, **React Native** and **ServiceNow**.  
+- 🌱 Currently expanding my expertise in **Backend Development**, **React Native**, and **ServiceNow**.  
 - 💡 Skilled in **C++, Java, JavaScript, SQL, ReactJS, Node.js, and ServiceNow**.  
 - 🤝 Actively solving problems on **LeetCode, CodeChef, and HackerRank**.  
 - 🎯 Goal: Become a top-tier **Software Engineer** and contribute to innovative tech solutions.  
@@ -51,15 +51,17 @@
 - Added features like automatic move calculation, replay functionality, and input validation.
 - Strengthened understanding of game logic, recursion, and decision-making algorithms through hands-on implementation.
 
-  
+📂 **AI-Powered Leave Request Analyzer (ServiceNow, REST Message, Hugging Face NLP API)** 
+- Developed an AI-driven analyzer that evaluates leave requests and provides recommendations: **Approve, Reject, or Review** for managers.
+- Integrated **Hugging Face NLP API** via REST Messages for contextual analysis, achieving **85% accuracy** in prediction of leave outcomes.
+- Automated notifications and workflows using **Flow Designer & Business Rules**, reducing manual effort for managers.
+
 🔗 **[Check out my Portfolio](https://aparnakanda.github.io/AK_Portfolio/)**  
 
 ---
 
 ### 💼 Internships  
-🔹 **Technical Hub Pvt Ltd** – ServiceNow Development Internship (Jan 2025 – June 2025)
-- Worked on **custom tables, form views, client scripts, REST API integration, Service Portal customization, and workflow automation using Flow Designer**.
-  
+
 🔹 **Technical Hub Pvt Ltd** - Full Stack Development with React Native (June 2024 - July 2024)  
 - Gained hands-on experience building **scalable web & mobile apps**.  
 
@@ -80,7 +82,7 @@
 ---
 
 ### 🏅 Achievements  
-✔ Solved **200+ problems** on **LeetCode**.  
+✔ Solved **260+ problems** on **LeetCode**.  
 ✔ Solved **500+ problems** on **CodeChef**.  
 ✔ Earned **5-star badges** in **C++, Java, and SQL** on HackerRank.  
 
@@ -112,4 +114,5 @@
 <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white"/>  
 <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>  
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>  
-</p> 
+<img src="https://img.shields.io/badge/ServiceNow-%23171616.svg?&style=for-the-badge&logo=servicenow&logoColor=white"/>  
+</p>
